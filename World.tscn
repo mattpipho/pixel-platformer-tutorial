@@ -6,34 +6,34 @@
 [node name="World" type="Node2D"]
 
 [node name="Block" parent="." instance=ExtResource( 1 )]
-position = Vector2( 90, 108 )
+position = Vector2( 86, 116 )
 
 [node name="Block2" parent="." instance=ExtResource( 1 )]
-position = Vector2( 108, 108 )
+position = Vector2( 104, 116 )
 
 [node name="Block3" parent="." instance=ExtResource( 1 )]
-position = Vector2( 126, 108 )
+position = Vector2( 122, 116 )
 
 [node name="Block4" parent="." instance=ExtResource( 1 )]
-position = Vector2( 144, 108 )
+position = Vector2( 140, 116 )
 
 [node name="Block5" parent="." instance=ExtResource( 1 )]
-position = Vector2( 144, 90 )
+position = Vector2( 140, 98 )
 
 [node name="Block6" parent="." instance=ExtResource( 1 )]
-position = Vector2( 162, 90 )
+position = Vector2( 158, 98 )
 
 [node name="Block7" parent="." instance=ExtResource( 1 )]
-position = Vector2( 162, 72 )
+position = Vector2( 158, 80 )
 
 [node name="Block8" parent="." instance=ExtResource( 1 )]
-position = Vector2( 180, 72 )
+position = Vector2( 176, 80 )
 
 [node name="Block9" parent="." instance=ExtResource( 1 )]
-position = Vector2( 198, 72 )
+position = Vector2( 194, 80 )
 
 [node name="Block10" parent="." instance=ExtResource( 1 )]
-position = Vector2( 198, 72 )
+position = Vector2( 194, 80 )
 
 [node name="Player" parent="." instance=ExtResource( 2 )]
 position = Vector2( 107, 28 )
