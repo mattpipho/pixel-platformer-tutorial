@@ -35,5 +35,8 @@ position = Vector2( 194, 80 )
 [node name="Block10" parent="." instance=ExtResource( 1 )]
 position = Vector2( 194, 80 )
 
+[node name="Block11" parent="." instance=ExtResource( 1 )]
+position = Vector2( 212, 80 )
+
 [node name="Player" parent="." instance=ExtResource( 2 )]
 position = Vector2( 107, 28 )
